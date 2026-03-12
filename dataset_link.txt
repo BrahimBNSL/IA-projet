@@ -1,0 +1,6 @@
+En raison des limitations de **GitHub**, il n’est pas possible de téléverser des fichiers de grande taille dans ce dépôt. Le dataset utilisé dans ce projet dépasse la taille maximale autorisée pour un fichier.
+
+Vous pouvez télécharger le dataset directement à partir du lien suivant :
+https://www.kaggle.com/datasets/uciml/electric-power-consumption-data-set
+
+Une fois téléchargé, placez le dataset dans le dossier approprié du projet afin de pouvoir exécuter le code et reproduire les résultats.
