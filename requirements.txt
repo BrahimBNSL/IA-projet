@@ -1,0 +1,15 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+
+name: power-consumption
+channels:
+  - defaults
+dependencies:
+  - python=3.x
+  - pandas
+  - numpy
+  - scikit-learn
+  - matplotlib
+  - jupyter
